@@ -1,0 +1,2 @@
+# fxbot
+Ai treding bot
